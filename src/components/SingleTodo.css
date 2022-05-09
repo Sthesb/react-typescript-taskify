@@ -1,0 +1,19 @@
+.todos_single {
+    display: flex;
+    width: 29.5%;
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 15px;
+    background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/summer-background-abstract-background-wallpaper-use-for-presentation_HDDYoJOhMg_thumb.jpg');
+}
+.todo_single_text {
+    flex: 1;
+    /* padding: 5px; */
+    border: none;
+    font-size: 20px;
+}
+.icon{
+    font-size: 20px;
+    margin: 0 10px;
+}
